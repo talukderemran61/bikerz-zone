@@ -1,0 +1,18 @@
+.rating-icon{
+    width: 20px;
+}
+.bg-faq{
+    background-color: #f2f8ff;
+}
+.bg-footer{
+    background-color: #0B0D17;
+}
+
+
+
+
+@media only screen and (min-width:300px) and (max-width:991px) {
+    .navbar-btn{
+        margin-left: 0!important;
+    }
+}
